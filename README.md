@@ -1,6 +1,6 @@
 # 2_AN_3
 
-##Description
+## Description
 This is a app called RecipeBox created in Com S 309 at ISU. A user may select ingredients prompted to them on the frontscreen. Once selected, the app will search for recipes that have these ingredients and suggest which ones to make.
 
 ## Authors and acknowledgment
